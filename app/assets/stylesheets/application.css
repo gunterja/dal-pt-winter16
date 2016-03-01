@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+ body {
+    background-image:url("http://escapadepr.com/wp-content/uploads/2015/08/o-INSTAGRAM-facebook.jpg");
+    background-repeat:none;
+    color:#f5f9ff;
+} 
+
+h1 {
+    font-family: Georgia, serif;
+}
